@@ -1,16 +1,21 @@
-## Hi there 👋
+# Robert Ventura
 
-<!--
-**rventura11/rventura11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics professional with experience in genomic data analysis, variant interpretation, and computational biology.
 
-Here are some ideas to get you started:
+## 🧬 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[VCF Annotator](https://github.com/rventura11/vcf-annotator)** - Variant annotation pipeline  
+Modular Python toolkit integrating Ensembl VEP and gnomAD for comprehensive variant interpretation. Features batch API processing, type hints, and production-ready architecture.
+
+**[Coding Examples](https://github.com/rventura11/coding-examples)** - Bioinformatics analysis scripts  
+Collection of R scripts for genomics data analysis and visualization.
+
+## 🛠️ Technical Skills
+
+**Languages**: Python, R, SQL  
+**Bioinformatics**: VCF/BAM processing, variant annotation, RNA-seq analysis, genomic data analysis  
+**Tools & Libraries**: pandas, requests, Bioconductor, Git
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/robert-ventura-nyc92/) | robert.e.ventura@gmail.com

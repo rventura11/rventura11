@@ -1,8 +1,3 @@
-# Robert Ventura
-
-Bioinformatics scientist and software engineer specializing in cancer genomics, clinical pipeline operations and variant analysis. 6+ years experience in WES/ctDNA testing, clinical reporting and immunoinformatics.
-
-
 ## 🧬 Featured Projects
 
 **[VCF Annotator](https://github.com/rventura11/vcf-annotator)** - Variant annotation pipeline  

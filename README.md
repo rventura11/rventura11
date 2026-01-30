@@ -12,7 +12,9 @@ Collection of two R scripts and one Python script used to conduct clinical bioin
 ## 🛠️ Technical Skills
 
 **Languages & Tools/Libraries**: Python (pandas, NumPy, conditional logic, loops), R (dplyr/tidyr/purrr, Bioconductor, ggplot2), SQL, Zsh/Unix, Git/GitHub
+
 **Bioinformatics**: WES/WGS analysis, variant calling, ctDNA/MRD testing, variant calling (bcftools, GATK), sequencing data processing (BWA, SAMtools), variant annotation (VEP, gnomAD, ClinVar)
+
 **Infrastructure**: Nextflow, Luigi, AWS (S3, EC2, Batch), HPC clusters, IaC (Terraform), Docker/conda
 
 

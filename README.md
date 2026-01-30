@@ -1,20 +1,23 @@
 # Robert Ventura
 
-Bioinformatics professional with experience in genomic data analysis, variant interpretation, and computational biology.
+Bioinformatics scientist and software engineer specializing in cancer genomics, clinical pipeline operations and variant analysis. 6+ years experience in WES/ctDNA testing, clinical reporting and immunoinformatics.
+
 
 ## 🧬 Featured Projects
 
 **[VCF Annotator](https://github.com/rventura11/vcf-annotator)** - Variant annotation pipeline  
-Modular Python toolkit integrating Ensembl VEP and gnomAD for comprehensive variant interpretation. Features batch API processing, type hints, and production-ready architecture.
+Python package that conducts comprehensive variant annotation of an input VCF file, integrating data from Ensembl VEP and gnomAD APIs. Independent project published to demonstrate skills in writing production-ready modular Python code and integrating API calling.
 
 **[Coding Examples](https://github.com/rventura11/coding-examples)** - Bioinformatics analysis scripts  
-Collection of R scripts for genomics data analysis and visualization.
+Collection of two R scripts and one Python script used to conduct clinical bioinformatics tasks while at NeoGenomics (2021-2025)
+
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, R, SQL  
-**Bioinformatics**: VCF/BAM processing, variant annotation, RNA-seq analysis, genomic data analysis  
-**Tools & Libraries**: pandas, requests, Bioconductor, Git
+**Languages & Tools/Libraries**: Python (pandas, NumPy, conditional logic, loops), R (dplyr/tidyr/purrr, Bioconductor, ggplot2), SQL, Zsh/Unix, Git/GitHub
+**Bioinformatics**: WES/WGS analysis, variant calling, ctDNA/MRD testing, variant calling (bcftools, GATK), sequencing data processing (BWA, SAMtools), variant annotation (VEP, gnomAD, ClinVar)
+**Infrastructure**: Nextflow, Luigi, AWS (S3, EC2, Batch), HPC clusters, IaC (Terraform), Docker/conda
+
 
 ## 📫 Contact
 
